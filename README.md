@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **TensorFlow**
 
-- 👨‍💻 All of my projects are available at [sumeetbalwade.me](sumeetbalwade.me)
+- 👨‍💻 All of my projects are available at [sumeetbalwade.me](https://sumeetbalwade.me/)
 
-- 💬 Ask me about **MERN, Flutter, Django**
+- 💬 Ask me about **MERN, Flutter, Cloud**
 
 - 📫 How to reach me **balwadesr@gmail.com**
 
-- 📄 Know about my experiences [sumeetbalwade.me](sumeetbalwade.me)
+- 📄 Know about my experiences [sumeetbalwade.me](https://sumeetbalwade.me/)
 
 - ⚡ Fun fact **The Firefox logo isn't a fox**
 
