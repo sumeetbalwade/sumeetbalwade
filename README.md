@@ -27,7 +27,7 @@
 
 ---
 
-When I am not coding, you'll find me watching some fantasy/Sci-fi Movies or exploring some new places. Find out more about me & feel free to connect with me here:
+When I am not coding, you'll find me watching some Fantasy/Sci-fi Movies or exploring some new places. Find out more about me & feel free to connect with me here:
 
 
 <p align="center">
