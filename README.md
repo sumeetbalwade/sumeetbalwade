@@ -87,7 +87,6 @@ When I am not coding, you'll find me watching some fantasy/Sci-fi Movies or expl
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetbalwade&hide_border=true&theme=radical" />
 </p>
 
-<br />
 
 ## 🔝 Most used languages
 
